@@ -1,5 +1,4 @@
-# 방위산업 타겟 정보 분석 플랫폼       
-# Defense Monitoring Zone (DMZ)
+# 방위산업 타겟 정보 분석 플랫폼(DMZ)
 
 ## Overview
 **Defense Monitoring Zone (DMZ)** is a data-driven platform designed to support strategic decision-making in the defense export industry. By analyzing country-specific defense indicators and providing actionable insights, this platform empowers businesses and governments to craft tailored defense export strategies.
